@@ -42,8 +42,8 @@ if uploaded_file is not None:
     st.image(image, caption="Uploaded Image", use_container_width=True)
 
     # Add a classify button
-    if st.button("Classify"):
-        st.write("Classifying... 🔄")
+    if st.button("Predict"):
+        st.write("Predict... 🔄")
         
         # Preprocess & Predict
         processed_image = preprocess_image(image)
