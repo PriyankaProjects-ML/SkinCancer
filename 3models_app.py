@@ -8,13 +8,13 @@ import gdown
 # Google Drive file IDs for the models
 MODEL_URLS = {
     "VGG16": "https://drive.google.com/uc?id=1-0W38GF3yidHN719ORBgFWObBZwrNJwo",
-    "InceptionV3": "https://drive.google.com/uc?id=1KthKzvH7bJXlIROZ-36tSIMZEn-he4hA",
+    "InceptionV3": "https://drive.google.com/uc?id=1j1XVxqYXTNgy_z10Uh6nRXSspdFg4ndP",
     "ResNet50": "https://drive.google.com/uc?id=YOUR_RESNET_FILE_ID"
 }
 
 MODEL_FILES = {
     "VGG16": "modelvgg_img.h5",
-    "InceptionV3": "modelInception_img.h5",
+    "InceptionV3": "modelInception_img.keras",
     "ResNet50": "model_resnet.h5"
 }
 
