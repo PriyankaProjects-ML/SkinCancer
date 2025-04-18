@@ -14,7 +14,7 @@ MODEL_URLS = {
 
 MODEL_FILES = {
     "VGG16": "modelvgg_img.h5",
-    "InceptionV3": "model_inception.h5",
+    "InceptionV3": "modelInception_img.h5",
     "ResNet50": "model_resnet.h5"
 }
 
