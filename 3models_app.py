@@ -8,7 +8,7 @@ import gdown
 # Google Drive file IDs for the models
 MODEL_URLS = {
     "VGG16": "https://drive.google.com/uc?id=1-0W38GF3yidHN719ORBgFWObBZwrNJwo",
-    "InceptionV3": "https://drive.google.com/uc?id=YOUR_INCEPTION_FILE_ID",
+    "InceptionV3": "https://drive.google.com/uc?id=1KthKzvH7bJXlIROZ-36tSIMZEn-he4hA",
     "ResNet50": "https://drive.google.com/uc?id=YOUR_RESNET_FILE_ID"
 }
 
