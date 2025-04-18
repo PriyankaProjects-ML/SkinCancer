@@ -9,7 +9,7 @@ import gdown
 MODEL_URLS = {
     "VGG16": "https://drive.google.com/uc?id=1-0W38GF3yidHN719ORBgFWObBZwrNJwo",
     "InceptionV3": "https://drive.google.com/uc?id=1j1XVxqYXTNgy_z10Uh6nRXSspdFg4ndP",
-    "ResNet50": "https://drive.google.com/uc?id=YOUR_RESNET_FILE_ID"
+    "ResNet101": "https://drive.google.com/uc?id=YOUR_RESNET_FILE_ID"
 }
 
 MODEL_FILES = {
