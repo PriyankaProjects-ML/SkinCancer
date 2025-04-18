@@ -15,7 +15,7 @@ MODEL_URLS = {
 MODEL_FILES = {
     "VGG16": "modelvgg_img.h5",
     "InceptionV3": "modelInception_img.keras",
-    "ResNet50": "model_resnet.h5"
+    "ResNet101": "model_resnet.h5"
 }
 
 CLASS_NAMES = ["BCC (Basal Cell Carcinoma)", "SCC (Squamous Cell Carcinoma)", "Melanoma"]
