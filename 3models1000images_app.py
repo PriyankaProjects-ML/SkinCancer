@@ -7,13 +7,13 @@ import gdown
 
 # Google Drive file IDs for the models
 MODEL_URLS = {
-    "VGG16": "https://drive.google.com/uc?id=1-0W38GF3yidHN719ORBgFWObBZwrNJwo",
+    "VGG16": "https://drive.google.com/uc?id=1FOXTOm0yVvgBTKQ1C6z8AxhaDwTz3dRe",
     "InceptionV3": "https://drive.google.com/uc?id=1j1XVxqYXTNgy_z10Uh6nRXSspdFg4ndP",
     "ResNet101": "https://drive.google.com/uc?id=1E1ixPtqw0BaAt78jT-5-u_9TbI7OmxH7"
 }
 
 MODEL_FILES = {
-    "VGG16": "modelvgg_img.h5",
+    "VGG16": "modelvgg_1000img.h5",
     "InceptionV3": "modelInception_img.keras",
     "ResNet101": "CNNresnet101_img.keras"
 }
